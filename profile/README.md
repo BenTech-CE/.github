@@ -1,16 +1,17 @@
-## 👋 Olá! Somos a BenTech, uma empresa focada no desenvolvimento de novas tecnologias para os usuários.
+## 👋 Olá! Somos a BenTech, uma empresa dedicada a desenvolver soluções tecnológicas inovadoras que facilitem a vida das pessoas.
 
 ### ✨ Missão
-Proporcionar uma experiência mais simples e compreensível com a tecnologia, para as pessoas que não tenham domínio sobre a área.
+Proporcionar uma experiência mais agradável com a tecnologia para que as pessoas que não têm domínio sobre a área consigam se inserir na utilização de softwares.
 
 ### 👀 Visão
-Disponibilizar uma espécie de Sistema Operacional mais trivial e descomplicado, que facilite o seu uso.
+Disponibilizar um Sistema Operacional intuitivo e descomplicado, facilitando seu uso para qualquer tipo de usuário, independentemente de seu nível de conhecimento tecnológico.
 
 ### 📋 Valores
 - Honestidade
 - Responsabilidade
-- Disposição a atender os desejos dos clientes
 - Integridade
+- Empatia
+- Disposição a atender às demandas dos clientes
 - Amor por tecnologia
 
 ## Nossa equipe
