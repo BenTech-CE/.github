@@ -1,3 +1,5 @@
+<img src="https://github.com/BenTech-CE/techos/blob/main/design/bentechpreto.png?raw=true" width="600px">
+
 ## 👋 Olá! Somos a BenTech, uma empresa dedicada a desenvolver soluções tecnológicas inovadoras que facilitem a vida das pessoas.
 
 ### 🗺️ Nossa história
