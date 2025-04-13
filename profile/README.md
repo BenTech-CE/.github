@@ -20,9 +20,11 @@ Disponibilizar soluções tecnológicas intuitivas e descomplicadas, simplifican
 - Amor por tecnologia
 
 ## 👨‍💻 Nossa equipe
-- [Ismael Nascimento](https://github.com/ismaelnascimento): ***Desenvolvedor***
-- [João Gabriel Aguiar](https://github.com/Jot4g3): ***Desenvolvedor***
-- [Gabriel Alencar](https://github.com/Bilinhas): ***Desenvolvedor***
-- [Ariel Paiva](https://github.com/Ariel-Paiva): ***Desenvolvedor***
-- [Kauã Sousa](https://github.com/kkauaon): ***Desenvolvedor***
+- [Ismael Nascimento](https://github.com/ismaelnascimento): ***Desenvolvedor Front-End***
+- [João Gabriel Aguiar](https://github.com/Jot4g3): ***Desenvolvedor Front-End***
+- [Kauã Sousa](https://github.com/kkauaon): ***Desenvolvedor Back-End***
+  
+Membros inativos:
+- [Gabriel Alencar](https://github.com/Bilinhas): ***ex-desenvolvedor TechOS***
+- [Ariel Paiva](https://github.com/Ariel-Paiva): ***ex-desenvolvedor TechOS***
 
