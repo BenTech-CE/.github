@@ -23,6 +23,7 @@ Disponibilizar soluções tecnológicas intuitivas e descomplicadas, simplifican
 - [Ismael Nascimento](https://github.com/ismaelnascimento): ***Desenvolvedor Front-End***
 - [João Gabriel Aguiar](https://github.com/Jot4g3): ***Desenvolvedor Front-End***
 - [Kauã Sousa](https://github.com/kkauaon): ***Desenvolvedor Back-End***
+- [Yasmin Sousa](https://github.com/Yasmin-Sousa): ***Designer Classhub***
   
 Membros inativos:
 - [Gabriel Alencar](https://github.com/Bilinhas): ***ex-desenvolvedor TechOS***
