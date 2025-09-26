@@ -20,12 +20,13 @@ Disponibilizar soluções tecnológicas intuitivas e descomplicadas, simplifican
 - Amor por tecnologia
 
 ## 👨‍💻 Nossa equipe
-- [Ismael Nascimento](https://github.com/ismaelnascimento): ***Desenvolvedor Front-End Classhub***
-- [Kauã Sousa](https://github.com/kkauaon): ***Desenvolvedor Back-End Classhub***
-- [Yasmin Sousa](https://github.com/Yasmin-Sousa): ***Designer-chefe Classhub***
-- [João Gabriel Aguiar](https://github.com/Jot4g3): ***Designer Classhub***
+- [Ismael Nascimento](https://github.com/ismaelnascimento): ***Desenvolvedor Front-End***
+- [Kauã Sousa](https://github.com/kkauaon): ***Desenvolvedor Back-End & Front-end***
+- [Yasmin Sousa](https://github.com/Yasmin-Sousa): ***Designer***
+- [Brenda Mônica](https://github.com/brwndag): ***Designer-chefe***
+- [João Gabriel Aguiar](https://github.com/Jot4g3): ***Designer & Front-end***
   
-Membros inativos:
+Membros desligados:
 - [Gabriel Alencar](https://github.com/Bilinhas): ***ex-desenvolvedor TechOS***
 - [Ariel Paiva](https://github.com/Ariel-Paiva): ***ex-desenvolvedor TechOS***
 
