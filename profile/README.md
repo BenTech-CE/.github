@@ -20,13 +20,13 @@ Disponibilizar soluções tecnológicas intuitivas e descomplicadas, simplifican
 - Amor por tecnologia
 
 ## 👨‍💻 Nossa equipe
-- [Ismael Nascimento](https://github.com/ismaelnascimento): ***Desenvolvedor Front-End***
-- [Kauã Sousa](https://github.com/kkauaon): ***Desenvolvedor Back-End & Front-end***
-- [Yasmin Sousa](https://github.com/Yasmin-Sousa): ***Designer***
-- [Brenda Mônica](https://github.com/brwndag): ***Designer-chefe***
-- [João Gabriel Aguiar](https://github.com/Jot4g3): ***Designer & Front-end***
+- [Ismael Nascimento](https://github.com/ismaelnascimento): ***BenTech Founder Desenvolvedor Front-End***
+- [João Gabriel Aguiar](https://github.com/Jot4g3): ***BenTech Founder Designer Classhub & Front-end***
+- [Kauã Sousa](https://github.com/kkauaon): ***BenTech Founder Desenvolvedor Back-End & Front-end***
+- [Yasmin Sousa](https://github.com/Yasmin-Sousa): ***Designer-chefe Classhub & Designer Watchers***
+- [Brenda Mônica](https://github.com/brwndag): ***Designer-chefe Watchers***
   
-Membros desligados:
-- [Gabriel Alencar](https://github.com/Bilinhas): ***ex-desenvolvedor TechOS***
-- [Ariel Paiva](https://github.com/Ariel-Paiva): ***ex-desenvolvedor TechOS***
+BenTech Founder Emeritus (ex-fundadores):
+- [Gabriel Alencar](https://github.com/Bilinhas): ***Desenvolvedor TechOS***
+- [Ariel Paiva](https://github.com/Ariel-Paiva): ***Desenvolvedor TechOS***
 
